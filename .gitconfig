@@ -1,0 +1,6 @@
+[user]
+	username = amelon-bflo
+[commit]
+	gpgsign = true
+[aliases]
+	github = amelon-bflo
